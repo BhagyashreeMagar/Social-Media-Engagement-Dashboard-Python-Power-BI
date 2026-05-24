@@ -64,7 +64,7 @@ The dataset includes:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](images/Social Media Engagement Dashboardshboard_screenshot.png)
 
 ---
 
@@ -76,7 +76,7 @@ social-media-engagement-analysis-dashboard/
 │── dashboard/
 │   └── Social_Media_Engagement_Dashboard.pbix
 │── images/
-│   └── dashboard_screenshot.png
+│   └── Social Media Engagement Dashboard.png
 │── notebooks/
 │   └── social_media_analysis.ipynb
 │── README.md
