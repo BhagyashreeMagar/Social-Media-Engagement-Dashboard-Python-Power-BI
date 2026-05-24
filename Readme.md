@@ -64,8 +64,7 @@ The dataset includes:
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](images/Social Media Engagement Dashboardshboard_screenshot.png)
-
+![Dashboard Screenshot](Social%20Media%20Engagement%20Dashboard.png)
 ---
 
 ## 📁 Project Structure
