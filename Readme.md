@@ -11,7 +11,7 @@
 - [Project Structure](#-project-structure)
 - [Business Impact](#-business-impact)
 - [Future Improvements](#-future-improvements)
-- [Author](#-author)
+- [Author](#author)
 
 ---
 
