@@ -102,7 +102,7 @@ This dashboard helps marketing teams:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Bhagyashree Magar**  
 Aspiring Data Analyst | SQL | Python | Power BI | Excel  
 
